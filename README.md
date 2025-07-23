@@ -11,13 +11,13 @@ This project uses Tobii Eye Tracker 5 along with Tobii Ghost (for green bubble o
 ________________________________________
 🔧** Hardware and Software Requirements**
 💠 **Hardware**
-•	Tobii Eye Tracker 5
-•	A monitor with Tobii Eye Tracker 5 attached and calibrated.
-•	Windows PC with admin rights.
+        •	Tobii Eye Tracker 5
+        •	A monitor with Tobii Eye Tracker 5 attached and calibrated.
+        •	Windows PC with admin rights.
 📍 Software
-•	Tobii Ghost (for visualizing gaze as a green bubble)
-o	Install from: https://gaming.tobii.com/software/ghost/
-o	Use for visual overlay — enables detection through computer vision.
+    •	Tobii Ghost (for visualizing gaze as a green bubble)
+    o	Install from: https://gaming.tobii.com/software/ghost/
+    o	Use for visual overlay — enables detection through computer vision.
 ________________________________________
 🐍 **Python Environment Setup
 🧰 Required Python Packages**
