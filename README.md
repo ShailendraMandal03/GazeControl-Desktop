@@ -1,13 +1,15 @@
 # GazeControl-Desktop
-👁️ Gaze-Based Interaction and Visualization using Tobii Eye Tracker 5 and Tobii Ghost 
-This project uses Tobii Eye Tracker 5 along with Tobii Ghost (for green bubble overlay visualization) to detect and interact with desktop elements using eye gaze. The system tracks eye movements, identifies fixations and saccades, and triggers clicks (single/double) based on gaze hold. A green circle (from Tobii Ghost) is used as the visual indicator of the user’s gaze point.
- ** 📌 Features**
-    •	Tracks real-time gaze using a green bubble overlay.
-    •	Clicks on desktop icons or items by holding gaze.
-    •	Double-click support to open files/folders.
-    •	Detects fixations and saccades.
-    •	Visualizes gaze path (scanpath) with matplotlib.
-    •	Non-intrusive – clicks without moving mouse cursor.
+This project uses **Tobii Eye Tracker 5** along with **Tobii Ghost** (for green bubble overlay visualization) to detect and interact with desktop elements using eye gaze. The system tracks eye movements, identifies fixations and saccades, and triggers clicks (single/double) based on gaze hold. A green circle (from Tobii Ghost) is used as the visual indicator of the user's gaze point.
+
+ ## 📌 Features
+
+- Tracks real-time gaze using a green bubble overlay.
+- Clicks on desktop icons or items by holding gaze.
+- Double-click support to open files/folders.
+- Detects fixations and saccades.
+- Visualizes gaze path (scanpath) with matplotlib.
+- Non-intrusive – clicks without moving mouse cursor.
+
 ________________________________________
 🔧** Hardware and Software Requirements**
 💠 **Hardware**
